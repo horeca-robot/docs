@@ -1,2 +1,2 @@
 # docs
-All documentation for this product.
+All documentation for this project.
